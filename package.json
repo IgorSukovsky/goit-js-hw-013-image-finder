@@ -6,7 +6,7 @@
   "homepage": "https://IgorSukovsky.github.io/goit-js-hw-013-image-finder",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-013-image-finder"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-013-image-finder/"
   },
   "repository": {
     "type": "git",
